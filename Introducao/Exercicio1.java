@@ -1,4 +1,6 @@
 package exercicio1;
+        else {
+            taxaFixa = 3;
 
 import java.util.Scanner;
 
